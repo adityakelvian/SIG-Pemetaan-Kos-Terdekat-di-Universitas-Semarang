@@ -1,23 +1,34 @@
-# Sistem Informasi Geografis dengan PHP dan Google Maps API
+**Selamat Datang di "Sistem Informasi Geografi Pencarian Kost Terdekat di Universitas Semarang" Website! 🚀**
 
-Sistem Informasi Geografis Sederhana menggunakan MYSQL untuk menyimpan data longitude latitude diambil dari Google Maps API ditampilkan dalam single marker dan multiple marker
+"Aplikasi Sistem Informasi Geografi (SIG) Pencarian Kost di Universitas Semarang membantu Anda menemukan kost terdekat dengan mudah melalui peta interaktif dan filter pencarian. Temukan kost berdasarkan jarak, harga, fasilitas, dan lihat langsung detailnya."
 
-## Video Tutorial Step by Step Membuat SIG dengan Google Maps API
-Ikuti penjelasan tiap baris kode di [Video ini](https://www.youtube.com/watch?v=3M2QnGjRAlc) via **YouTube**
+### 🚧 Status Proyek
 
-## Subscribe Channel JuniorDev
+- **Status:** Selesai
+- **Tanggal Rilis Diharapkan:** April 2024
 
-[Junior Dev](https://www.youtube.com/c/juniordevindonesia) adalah sebuah channel tutorial komputer dan programmer mulai dari *HTML, CSS, PHP, SQL, Angular, Web Design* dan sebagainya. Di channel ini kamu bisa dapatkan tutorial gratis yang selalu update. Subscribe dan Like channel ini agar kamu bisa mengikuti terus tutorial-tutorialnya.
+### 🚀 Fitur Utama
 
-Jangan lupa follow untuk kontak, bertanya dan berdiskusi
-* [Channel Youtube](https://www.youtube.com/c/juniordevindonesia)
-* [Like Fanpage](https://www.facebook.com/juniordevindonesiaofficial/)
-* [Twitter](http://twitter.com/hello_juniordev)
-* [Instagram](https://www.instagram.com/juniordevindonesia/)
-* [Google Plus](https://plus.google.com/+JuniorDevIndonesia/posts)
-* [Email](mailto:hellojuniordev@gmail.com)
+- **Peta Interaktif**
+- **Filter Berbasis Lokasi**
+- **Menampilkan Rute dan Jarak**
+  
+## 🛠️ Teknologi yang Digunakan
 
-Jangan lupa [**SUBSCRIBE**](https://www.youtube.com/c/juniordevindonesia?sub_confirmation=1) ya..!
+- <b> PHP </b>
+- <b> Mysql </b>
+- <b> Bootstrap </b>
+## 📬 Kontak
 
-## Author
-* **Sofyan Setiawan** - *Freelance Web Designer and Developer* - [Facebook](https://www.facebook.com/sofyansetiawanprofile) - [@sofyansetiawann](https://twitter.com/sofyansetiawann)
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [adityakelvian10@gmail.com](mailto:adityakelvian10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6285712978343).
+
+### 🙏 Kontribusi
+
+Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berkontribusi, silakan buat _pull request_ atau buka _issue_.
+
+
+Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
+
+<div align="center">
+  &copy; <b>2024 ADITYA KELVIAN</b>
+</div>
